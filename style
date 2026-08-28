@@ -1,0 +1,28 @@
+<style>
+         header {
+         background-color: #c73c37;
+          color: #ffffff;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+        } 
+        
+        main {
+            background-color: rgb(244, 244, 250);
+            color: #000;
+            max-width: 800px; 
+            margin: 0 auto;
+            padding: 16px;
+        }
+
+        img {
+            width: 80px;
+            height: 80px;
+        }
+
+        button {
+            cursor: pointer;
+            margin-right: 8px;
+        }
+    </style>
