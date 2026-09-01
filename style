@@ -9,7 +9,7 @@
         } 
         
         main {
-            background-color: rgb(244, 244, 250);
+            background-color: rgb(198, 2, 2);
             color: #000;
             max-width: 800px; 
             margin: 0 auto;
@@ -37,8 +37,8 @@
         } 
         
         main {
-            background-color: rgb(244, 244, 250);
-            color: #000;
+            background-color: rgb(200, 64, 10);
+            color: #f6f1f1;
             max-width: 800px; 
             margin: 0 auto;
             padding: 16px;
